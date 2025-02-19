@@ -1,0 +1,22 @@
+PART 2
+Question 1:
+pwd stands for print working directory. It displays the path of the directory you are in
+mkdir is used to create a directory
+cd is used to navigate through the directories
+ls shows the files in the directory in different forms of display
+cd.. can be used to go up by one directory
+cat shows the data inside a file
+
+Question 2:
+git config passes your username and email to git
+git clone creates a copy of a repsitory
+git status displays information and the changes that have been made in the repository
+git add prepares the files to be committed
+git commit saves the files to the local repository
+git push adds the files from the local repository to the GitHub repository.
+
+Question 3:
+i. We must add a seperate document that says if we collabed with anyone and
+ii. We must add in the document the sources we used or write that we didn't use any.
+iii. There is a 10% penalty for each day the assignment is late.
+iv. We're expected to find out what happened during the days we weren't in class and make up work we didn't get to complete.
